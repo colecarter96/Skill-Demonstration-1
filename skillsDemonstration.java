@@ -1,10 +1,10 @@
-class skillsDemo{
-    skillsDemo(){
+class SkillsDemo{
+    SkillsDemo(){
         int i;
         int j;
         int z;
     }
-    public int divide(){
+    public static int divide(){
 
         int i = 1;
         int j = 2;
